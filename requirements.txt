@@ -6,7 +6,7 @@ mysql-connector-python==8.0.28
 mysqlclient @ file:///C:/Python/projeto%20cel/mysqlclient-2.1.0-cp310-cp310-win_amd64.whl
 protobuf==3.20.1
 psycopg2==2.9.3
+pytz==2022.1
 sqlparse==0.4.2
 tzdata==2022.1
 whitenoise==6.0.0
-gunicorn==20.1.0
