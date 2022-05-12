@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': "testa",
-        'HOST': 'localhost',
-        'USER': 'root',
-        'PASSWORD': '',
+        'NAME': "heroku_55cfc8cd6205b8f",
+        'HOST': 'us-cdbr-east-05.cleardb.net',
+        'USER': 'b21a1ecfa754a4',
+        'PASSWORD': '52f78a30',
         'PORT': '3306',
         'OPTIONS': {
                     'init_command': 'SET default_storage_engine=InnoDB',
